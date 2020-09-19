@@ -44,6 +44,7 @@
           "tsx": "never"
         }
       ],
+      "import/no-duplicates": "off",
       "camelcase": "off",
       "@typescript-eslint/camelcase": "off",
       "prettier/prettier": "error"
