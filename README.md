@@ -11,9 +11,9 @@ Gobarber 2020 is an app developed during the Rocketseat GoStack Bootcamp in 2020
 
 This app consists of a REST API built with NodeJS and Express, a web app built with ReactJS, and a mobile app built with React Native. You can reach these repositories following the list below:
 	 
- - **Meetapp Backend:**: https://github.com/hmhallak/gobarber-2020
- - **Meetapp Web:** https://github.com/hmhallak/gobarber-2020-web
- - **Meetapp Mobile:** https://github.com/hmhallak/goabarber-2020-mobile
+ - **Gobarber Backend:**: https://github.com/hmhallak/gobarber-2020
+ - **Gobarber Web:** https://github.com/hmhallak/gobarber-2020-web
+ - **Gobarber Mobile:** https://github.com/hmhallak/goabarber-2020-mobile
 
 ## Environment
  - To run the system you'll need the following docker containers running:
@@ -23,7 +23,7 @@ This app consists of a REST API built with NodeJS and Express, a web app built w
    
  - Install and run these containers and then proceed to the Setup section.
 
-## Setup
+## Setup (Web)
 - Setup and run the Gobarber backend server
 
  - Install dependencies:
